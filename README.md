@@ -1,4 +1,8 @@
-### Hi there 👋
+## 👋 홍종우 @hongjw1938
+<a href="mailto:hongjw1938@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hongjw1938@gmail.com-0000CD?style=flat&logo=Gmail&logoColor=white" /></a>
+<a href="https://github.com/hongjw1938" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=flat&logo=github" /></a>
+<a href="https://hongjw1938.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Blog-FF8C00?style=flat&logo=bloglovin" /></a>
+<a href="https://hongjw1938.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Naver%20BoostCamp-228B22?style=flat&logo=naver&logoColor=white" /></a>
 
 <!--
 **hongjw1938/hongjw1938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
